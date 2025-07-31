@@ -1,5 +1,5 @@
 # Manual-Testing-E-Commerce
-# ECommerce Manual Testing – Test Cases & Bug Reports
+# ECommerce – Test Cases & Bug Reports
 
 This repository contains structured manual test cases and sample bug reports for a typical eCommerce website. The goal is to demonstrate practical QA documentation for key end-user features.
 
